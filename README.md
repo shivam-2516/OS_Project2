@@ -1,5 +1,5 @@
-CPU Scheduling Simulator
-Project Overview
+#CPU Scheduling Simulator
+#Project Overview
 This project is a CPU Scheduling Simulator created for CS 3502 (Operating Systems) at OwlTech Systems.
 It implements two advanced scheduling algorithms from scratch:
 
